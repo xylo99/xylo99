@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xylo99
+- 👀 I’m interested in graphs graphs and more graphs (trees)!
+- 🌱 I’m currently learning about system design
+- 💞️ I’m looking to collaborate on QEMU or scrpy for right now
+- 📫 Message me here!
